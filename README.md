@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ronny Kissing
+👋 Hi, I’m Ronny Kissing
 
 <!---
 ronnyKissing/ronnyKissing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
